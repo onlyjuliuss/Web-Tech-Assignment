@@ -8,7 +8,7 @@
 -This project was developed as part of my Web Technologies course assignment, focusing on creating a server with endpoints using Node.js and Express.
 ## Screenshots
 - All Users Response
-![screenshot](images/All%20Users.png)
+![screenshot](images/all.png)
 
 - Users/:id Response
 ![screenshot](images/User-id.png)
