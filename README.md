@@ -5,8 +5,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-This application/project was created as a submission to my Web Technologies Course assign on how to create a server with endpoint using node js with express
-
+-This project was developed as part of my Web Technologies course assignment, focusing on creating a server with endpoints using Node.js and Express.
 ## Screenshots
 - All Users Response
 ![screenshot](images/All%20Users.png)
@@ -47,7 +46,7 @@ This application/project was created as a submission to my Web Technologies Cour
 - Returns a user by name on entering /users/name/:name endpoint
 
 ## Discussions/Takeaways
-- I learnt that request parameters alway return values as strings
+- I learnt that Endpoints are the location of the requested resource on an API server. 
 
 ## Contact
 - GitHub [@onlyjuliuss](https://github.com/onlyjuliuss)
